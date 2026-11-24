@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3200&pause=1000&color=00E5FF&background=0A0F1E&center=true&vCenter=true&width=900&height=60&lines=%3E+INITIALIZING+PROFILE...;%3E+Hello!+I'm+Luyanda+Nkosi;%3E+Full+Stack+developer+building+practical%2C+reliable+software;%3E+Open+to+collaboration+and+learning+opportunities;%3E+ALL+SYSTEMS+NOMINAL" alt="Boot sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=%3E%20INITIALIZING%20PROFILE...;%3E%20HELLO!%20I%20AM%20LUYANDA%20NKOSI;%3E%20FULL%20STACK%20DEVELOPER;%3E%20OPEN%20TO%20COLLABORATION;%3E%20ALL%20SYSTEMS%20NOMINAL" alt="INITIALIZING PROFILE... Hello! I am Luyanda Nkosi. Full Stack developer building practical, reliable software. Open to collaboration and learning opportunities." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0A0F1E" alt="Status online" />
-  <img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEV-00E5FF?style=for-the-badge&labelColor=0A0F1E" alt="Role: Full Stack Developer" />
-  <img src="https://img.shields.io/badge/MODE-OPEN%20TO%20COLLAB-00E5FF?style=for-the-badge&labelColor=0A0F1E" alt="Mode: open to collaboration" />
+  <img src="https://img.shields.io/badge/SYSTEM_ONLINE-0D2538?style=for-the-badge&logo=githubactions&logoColor=00E5FF" alt="System online" />
+  <img src="https://img.shields.io/badge/FULL_STACK_DEV-0D2538?style=for-the-badge&logo=stackblitz&logoColor=00E5FF" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/OPEN_TO_COLLAB-0D2538?style=for-the-badge&logo=handshake&logoColor=00E5FF" alt="Open to collaboration" />
 </p>
 
 ---
@@ -21,16 +21,18 @@
 ### ◢ SYSTEM PROFILE ◣
 
 ```text
-┌─[ USER ]──────────────────────────────────────────────────┐
-│  NAME ........ Luyanda Nkosi                              │
-│  CLASS ....... Full Stack Developer                       │
-│                                                           │
-│  ▸ CURRENT PROJECT .. My portfolio website                │
-│  ▸ LEARNING ......... perl                                │
-│  ▸ ASK ME ABOUT ..... Java · HTML5 · C++                  │
-│  ▸ FUN FACT ......... Once built a website in one night   │
-│                        without AI                         │
-└───────────────────────────────────────────────────────────┘
+╔═[ USER PROFILE ]══════════════════════
+║
+║  NAME ............ Luyanda Nkosi
+║  CLASS ........... Full Stack Developer
+║
+║  ▸ CURRENT PROJECT   My portfolio website
+║  ▸ LEARNING          perl
+║  ▸ ASK ME ABOUT      Java · HTML5 · C++
+║  ▸ FUN FACT          Once built a website in
+║                      one night without AI
+║
+╚═══════════════════════════════════════
 ```
 
 ---
