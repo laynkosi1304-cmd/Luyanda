@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_ONLINE-0D2538?style=for-the-badge&logo=githubactions&logoColor=00E5FF" alt="System online" />
-  <img src="https://img.shields.io/badge/FULL_STACK_DEV-0D2538?style=for-the-badge&logo=stackblitz&logoColor=00E5FF" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/OPEN_TO_COLLAB-0D2538?style=for-the-badge&logo=handshake&logoColor=00E5FF" alt="Open to collaboration" />
+  <code>&nbsp;● SYSTEM ONLINE&nbsp;</code> &nbsp;│&nbsp; <code>&nbsp;ROLE: FULL STACK DEV&nbsp;</code> &nbsp;│&nbsp; <code>&nbsp;MODE: OPEN TO COLLAB&nbsp;</code>
 </p>
 
 ---
@@ -42,65 +40,38 @@
 **`> LANGUAGES`**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-0D2538?style=for-the-badge&logo=javascript&logoColor=00E5FF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-0D2538?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0D2538?style=for-the-badge&logo=openjdk&logoColor=00E5FF" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0D2538?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-0D2538?style=for-the-badge&logo=csharp&logoColor=00E5FF" alt="C#" />
-  <img src="https://img.shields.io/badge/Kotlin-0D2538?style=for-the-badge&logo=kotlin&logoColor=00E5FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/SQL-0D2538?style=for-the-badge&logo=mysql&logoColor=00E5FF" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-0D2538?style=for-the-badge&logo=html5&logoColor=00E5FF" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0D2538?style=for-the-badge&logo=css3&logoColor=00E5FF" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,cs,kotlin,html,css&theme=dark&perline=9" alt="JavaScript, Python, Java, C++, C#, Kotlin, HTML5, CSS3" />
 </p>
 
 **`> FRAMEWORKS`**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-0D2538?style=for-the-badge&logo=react&logoColor=00E5FF" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D2538?style=for-the-badge&logo=nextdotjs&logoColor=00E5FF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-0D2538?style=for-the-badge&logo=angular&logoColor=00E5FF" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-0D2538?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-0D2538?style=for-the-badge&logo=dotnet&logoColor=00E5FF" alt=".NET" />
-  <img src="https://img.shields.io/badge/jQuery-0D2538?style=for-the-badge&logo=jquery&logoColor=00E5FF" alt="jQuery" />
-  <img src="https://img.shields.io/badge/GraphQL-0D2538?style=for-the-badge&logo=graphql&logoColor=00E5FF" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,dotnet,jquery,graphql&theme=dark&perline=9" alt="React, Next.js, Angular, Node.js, .NET, jQuery, GraphQL" />
 </p>
 
 **`> DATA CORES`**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-0D2538?style=for-the-badge&logo=mysql&logoColor=00E5FF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-0D2538?style=for-the-badge&logo=firebase&logoColor=00E5FF" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-0D2538?style=for-the-badge&logo=mongodb&logoColor=00E5FF" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb&theme=dark&perline=9" alt="MySQL, Firebase, MongoDB" />
 </p>
 
 **`> CLOUD & DEPLOYMENT`**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure-0D2538?style=for-the-badge&logo=microsoftazure&logoColor=00E5FF" alt="Azure" />
-  <img src="https://img.shields.io/badge/AWS-0D2538?style=for-the-badge&logo=amazonwebservices&logoColor=00E5FF" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-0D2538?style=for-the-badge&logo=docker&logoColor=00E5FF" alt="Docker" />
-  <img src="https://img.shields.io/badge/Netlify-0D2538?style=for-the-badge&logo=netlify&logoColor=00E5FF" alt="Netlify" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,netlify&theme=dark&perline=9" alt="Azure, AWS, Docker, Netlify" />
 </p>
 
 **`> TOOLS`**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-0D2538?style=for-the-badge&logo=git&logoColor=00E5FF" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D2538?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-0D2538?style=for-the-badge&logo=vscodium&logoColor=00E5FF" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-0D2538?style=for-the-badge&logo=figma&logoColor=00E5FF" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-0D2538?style=for-the-badge&logo=postman&logoColor=00E5FF" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=9" alt="Git, GitHub, VS Code, Figma, Postman" />
 </p>
 
 ---
 
 ### ◢ OPEN COMMS CHANNEL ◣
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/luyanda-nkosi-34578b350/"><img src="https://img.shields.io/badge/LINKEDIN-0D2538?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-  <a href="https://luyandankosi.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D2538?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Portfolio" /></a>
-  <a href="mailto:laynkosi1304@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D2538?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
-</p>
+[`[ LINKEDIN ]`](https://www.linkedin.com/in/luyanda-nkosi-34578b350/) &nbsp; [`[ PORTFOLIO ]`](https://luyandankosi.netlify.app/) &nbsp; [`[ EMAIL ]`](mailto:laynkosi1304@gmail.com)
 
 ---
 
